@@ -1,0 +1,39 @@
+.img {
+    width: 200px;
+    border-radius: 250px;
+    height: 200px;
+}
+
+.name {
+    text-align: center;
+    color: #c4010b;
+    font-family: 'Pangolin', cursive;
+    background-color: white;
+}
+
+body {
+    background-color: #ff7f7f;
+}
+
+p {
+    color: #c4010b;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    font-size: 25px;
+}
+
+h2 {
+    color: #ffffff;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 35px;
+}
+
+ul {
+    color: white;
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+}
+
+img {
+    width: 200px;
+}
